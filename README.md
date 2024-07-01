@@ -10,7 +10,7 @@ DhanushaSamaranayake/DhanushaSamaranayake is a ✨ special ✨ repository becaus
 You can click the Preview link to take a look at your changes.
 --->
 
-<h1 align="center">Hello...!🙋‍♂️, I'm Dhanusha Samaranayake 🤘 </h1>
+<h1 align="center">Hello...!🙋‍♂️, I'm Dilshan Rodrigo 🤘 </h1>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=DhanushaSamaranayake&label=Profile%20views&color=b60e21&style=flat" alt="DhanushaSamaranayake"/> </p>
